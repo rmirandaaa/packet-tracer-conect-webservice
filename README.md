@@ -48,3 +48,10 @@ Al cargar la página correctamente, se visualiza el siguiente mensaje institucio
 
 **"Welcome to the Learn IP Web Site"
 "You were able to reach this website because you had the IP address of the web server. The connecting PC also had a web client running on the device."**
+
+### Capturas de pantalla
+<img width="682" height="212" alt="image" src="https://github.com/user-attachments/assets/a4af028a-af53-4784-867d-dd591ea5061f" />
+<img width="1052" height="587" alt="image" src="https://github.com/user-attachments/assets/3c77948f-2bef-42c2-8955-37d1c35f6e02" />
+<img width="1065" height="272" alt="image" src="https://github.com/user-attachments/assets/def373e1-0fdb-4d4f-9f09-e0cdfad23550" />
+
+
