@@ -36,3 +36,15 @@ Minimum = 0ms, Maximum = 0ms, Average = 0ms
 ## Nota técnica
 * Nota técnica: Una respuesta exitosa verifica la conectividad lógica entre el cliente y el servidor.
 * Es común que el primer paquete sufra un Request timed out (pérdida del 25% en este caso) mientras los dispositivos convergen y se resuelven las direcciones físicas mediante el protocolo ARP.
+
+### Parte 2: Conéctese con el servidor Web a través del cliente Web
+* Dentro de la pestaña Desktop de PC0, abra la aplicación Web Browser (Navegador web).
+* Ingrese la dirección IP 172.33.100.50 en la barra de URL y haga clic en Go. El cliente web establecerá la conexión HTTP con el servidor utilizando la dirección IP.
+
+### Pregunta de análisis:
+¿Qué mensajes se ven después de que la página web se terminó de cargar?
+
+Al cargar la página correctamente, se visualiza el siguiente mensaje institucional del servidor:
+
+**"Welcome to the Learn IP Web Site"
+"You were able to reach this website because you had the IP address of the web server. The connecting PC also had a web client running on the device."**
